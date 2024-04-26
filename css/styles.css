@@ -1,0 +1,29 @@
+.logo {
+    width: 10%;
+}
+body .colors a {
+    color: #eb57bf !important;
+}
+.hov:hover {
+    color: #7bd4f4 !important;
+}
+.btn, .btn:hover {
+    color: #7bd4f4 !important;
+}
+.navbar-light .navbar-toggler {
+    border-color: #7bd4f4 !important;
+}
+.btn-outline-success {
+    border-color: #7bd4f4 !important;
+    box-shadow: #7bd4f4 !important;
+}
+.iconsfd{
+    width: 50% !important;
+    display: block !important;
+    margin-left: 25% !important;
+}
+.icons{
+    width: 50% !important;
+    display: block !important;
+    margin-left: 31% !important;
+}
